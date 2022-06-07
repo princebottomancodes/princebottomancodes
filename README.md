@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Bottoman
 - 👀 I’m interested in everything related to software.
-- 🌱 I’m currently learning flutter & swift. 
+- 🌱 I’m currently learning web development using Vue and React. 
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me princebottomancodes@gmail.com
 
